@@ -9,7 +9,7 @@ A fun translation app created using basic javascript.
 ## ABOUT PROJECT:
 
 A fun minion translation app built with basic concepts of Javascript.
-Enter your text in English and we will convert it into banana language for you.
+Enter your text in English and we will convert it into banana  for you.
 Checkout and have fun.
 
 ## [Start translating here](funtranslation555.netlify.app/)
